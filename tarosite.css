@@ -3,21 +3,25 @@ body {
 }
 
 h1 {
+  font-family: "Times New Roman", Times, serif;
   color: rgb(152,80,60);
   margin-left: 20px;
   margin-right:20px;
 }
 h2 {
+  font-family: "Times New Roman", Times, serif;
   color: rgb(152,80,60);
   margin-left: 60px;
   margin-right:20px;
 }
 p1 {
+  font-family: "Times New Roman", Times, serif;
   color: rgb(152,80,60);
   margin-left: 60px;
   margin-right:20px;
 }
 p2 {
+  font-family: "Times New Roman", Times, serif;
   color: rgb(152,80,60);
   margin-left: 60px;
   margin-right:20px;
