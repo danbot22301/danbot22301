@@ -16,7 +16,10 @@ h2 {
 }
 img
 {
-Padding: 100px,100px,100px,100px;
+padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
 }
 p1 {
   font-family: font-family: "Lucida Console", "Courier New", monospace;
